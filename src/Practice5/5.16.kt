@@ -1,4 +1,4 @@
-fun main()
+    fun main()
 {
     println("Введите число N")
     val n = readln().toInt()
