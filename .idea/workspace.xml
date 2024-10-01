@@ -4,76 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="890c7ce1-b138-4d32-86ae-3f0fd25fb873" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.15.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.16.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.17.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.18.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.19.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.20.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.21.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.22.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.23.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.24.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.25.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.26.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.28.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.29.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.30.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6/6.9.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice1-5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice1-6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice5/5.16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice5/5.16.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice1/z1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice1/z1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/1.1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/1.2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/1.3.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/1.4.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/1.5.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/2.1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/2.2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/2.3.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/2.4.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/2.5.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/2.6.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice2/2.7.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/10.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/11.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/12.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/13.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/3.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/4.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/5.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/6.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/7.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/8.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/9.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice3/_5_1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice4/1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice4/2.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice4/3(NW).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice4/4.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice4/5.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice4/6.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice4/7(NW).kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice4/8.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="890c7ce1-b138-4d32-86ae-3f0fd25fb873" name="Changes" comment="Add Practice6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +81,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726914245235</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Practice6">
+      <option name="closed" value="true" />
+      <created>1727606476939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727606476939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Practice6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Practice6" />
   </component>
 </project>
