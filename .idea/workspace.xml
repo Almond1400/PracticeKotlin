@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="890c7ce1-b138-4d32-86ae-3f0fd25fb873" name="Changes" comment="Add Practice8">
-      <change afterPath="$PROJECT_DIR$/src/Practice9/9.10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice9/9.2.kt" afterDir="false" />
+    <list default="true" id="890c7ce1-b138-4d32-86ae-3f0fd25fb873" name="Changes" comment="Add Practice9">
+      <change afterPath="$PROJECT_DIR$/src/Practice10/10.3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +45,7 @@
   "keyToString": {
     "Kotlin.Z11Kt.executor": "Run",
     "Kotlin.Z3Kt.executor": "Run",
+    "Kotlin._10_3Kt.executor": "Run",
     "Kotlin._1Kt.executor": "Run",
     "Kotlin._1_1Kt.executor": "Run",
     "Kotlin._2_2Kt.executor": "Run",
@@ -111,13 +111,22 @@
       <option name="project" value="LOCAL" />
       <updated>1728820387185</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Practice9">
+      <option name="closed" value="true" />
+      <created>1728825674938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728825674938</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Practice6" />
     <MESSAGE value="Add Practice7" />
     <MESSAGE value="Add Practice8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Practice8" />
+    <MESSAGE value="Add Practice9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Practice9" />
   </component>
 </project>
